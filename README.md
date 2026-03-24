@@ -666,16 +666,18 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=🚀+Developed+with+passion+by+Anmol" alt="Footer Typing"/>
+<h2>🚀 Developed with passion by Anmol</h2>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Anmoldhiman17">
-  <img src="https://img.shields.io/badge/GitHub-Anmoldhiman17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Anmoldhiman17-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="https://huggingface.co/Anmoldhiman17">
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-Anmoldhiman17-FFD21E?style=for-the-badge&labelColor=0d1117" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/🤗_HuggingFace-Anmoldhiman17-FFD21E?style=for-the-badge"/>
 </a>
 
 <br/><br/>
@@ -691,4 +693,3 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer" width="100%"/>
 
 </div>
-
