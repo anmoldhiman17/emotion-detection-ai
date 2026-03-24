@@ -460,6 +460,8 @@ graph LR
 <br/>
 
 
+> 📌 **To add screenshots:** Take screenshots of your app, save them in a `screenshots/` folder, and uncomment the `<img>` tags above.
+
 </div>
 
 <br/>
@@ -691,3 +693,4 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer" width="100%"/>
 
 </div>
+
