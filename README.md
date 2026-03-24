@@ -460,8 +460,6 @@ graph LR
 <br/>
 
 
-> 📌 **To add screenshots:** Take screenshots of your app, save them in a `screenshots/` folder, and uncomment the `<img>` tags above.
-
 </div>
 
 <br/>
