@@ -458,7 +458,7 @@ graph LR
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
-<!-- <img src="screenshots/main-ui.png" width="80%" alt="Main Interface"/> -->
+<img src="screenshots/main-ui.png" width="80%" alt="Main Interface"/> 
 
 <br/>
 
