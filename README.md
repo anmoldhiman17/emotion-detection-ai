@@ -626,8 +626,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 <div align="center">
 
-> 💡 **First time contributing?** Check out [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) for a beginner-friendly guide.
-
 </div>
 
 <br/>
