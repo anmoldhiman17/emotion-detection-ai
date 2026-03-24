@@ -449,30 +449,13 @@ graph LR
 <!-- SCREENSHOT PLACEHOLDERS -->
 
 ### 🖥️ Main Interface
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│              📸  ADD YOUR SCREENSHOT HERE                   │
-│                                                             │
-│         Replace with: screenshots/main-ui.png               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 <img src="screenshots/main-ui.png" width="80%" alt="Main Interface"/> 
 
 <br/>
 
 ### 📊 Prediction Results
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│              📸  ADD YOUR SCREENSHOT HERE                   │
-│                                                             │
-│         Replace with: screenshots/prediction.png            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-<!-- <img src="screenshots/prediction.png" width="80%" alt="Prediction Results"/> -->
+
+<img src="screenshots/prediction.png" width="80%" alt="Prediction Results"/>
 
 <br/>
 
