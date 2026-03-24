@@ -1,6 +1,19 @@
-flask>=3.0.0
-flask-cors>=4.0.0
-scikit-learn>=1.4.0
-numpy>=1.26.0
+# ── SentimentAI — Gradio App ──────────────────────
+# requirements.txt
+# Compatible with Hugging Face Spaces & Render
+# --------------------------------------------------
+
+# Core UI framework
+gradio>=4.0.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# Data handling
+pandas>=2.0.0
+
+# (Optional) For advanced preprocessing
 nltk>=3.8.0
-gunicorn>=21.2.0
